@@ -58,7 +58,7 @@ header img {
 }
 
 h1,
-h3 {
+h2 {
 	color: var(--purple-950);
 }
 
@@ -119,11 +119,11 @@ hr {
 	cursor: pointer;
 }
 
-.accordion-question h3 {
+.accordion-question h2 {
 	font-size: clamp(1.6rem, calc(0.1rem + 2vw), 1.8rem);
 }
 
-.accordion-question:hover h3,
+.accordion-question:hover h2,
 .accordion-question:hover .btn {
 	color: var(--pink);
 }
