@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live version of my solution](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-jUblF31V0U)
+- Live Site URL: [Live version of my solution](https://faq-accordion-frontend-mentor-cyan.vercel.app/)
 
 ## My process
 
