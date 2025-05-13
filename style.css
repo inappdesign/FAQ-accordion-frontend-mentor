@@ -46,7 +46,7 @@ header {
 	min-height: 100%;
 }
 
-header img {
+.bg-img {
 	position: absolute;
 	top: 0;
 	width: 100%;
@@ -177,10 +177,8 @@ hr {
 
 /* media queries */
 @media (min-width: 48rem) {
-	header img {
+	.bg-img {
 		background-image: url(img/background-pattern-desktop.svg);
-		background-size: cover;
-		background-repeat: no-repeat;
 	}
 
 	.intro {
